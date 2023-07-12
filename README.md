@@ -51,6 +51,9 @@
         <br>
         <br>
         <p>
+          <a href="https://github.com/Maksym-Tkachuk/school" alt="school">
+           <img width='70' height='25' src="images/repo.png" alt='repo'/>
+          </a>
           <a href='https://maksym-tkachuk.github.io/school/'>
             <img width='50' height='25' src="images/view.png" alt='view'/>
           </a>
@@ -59,6 +62,25 @@
         <p><strong><i>Frontend: </i> HTML, CSS, JavaScript, jQuery </strong></p>
       </div>
     </td>
-   
+       <td width='50%'>
+      <h2 align='center'>Games</h2>
+      <div align='center'>  
+        <a href="https://maksym-tkachuk.github.io/school/" alt="Games">
+          <img  src='images/games.png' alt='Games'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/Maksym-Tkachuk/games" alt="school">
+           <img width='70' height='25' src="images/repo.png" alt='repo'/>
+          </a>
+          <a href='https://maksym-tkachuk.github.io/games/'>
+            <img width='50' height='25' src="images/view.png" alt='view'/>
+          </a>
+            <img width='70' height='25' src="images/completed.png" alt='completed'/>
+        </p>
+        <p><strong><i>Frontend: </i> HTML, CSS, JavaScript, jQuery </strong></p>
+      </div>
+    </td>
   </tr>
 </table>
