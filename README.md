@@ -41,4 +41,24 @@
       </div>
     </td>
   </tr>
+  <tr style="display: flex;">
+    <td width='50%'>
+      <h2 align='center'>School</h2>
+      <div align='center'>  
+        <a href="https://maksym-tkachuk.github.io/school/" alt="School">
+          <img  src='images/school.png' alt='School'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href='https://maksym-tkachuk.github.io/school/'>
+            <img width='50' height='25' src="images/view.png" alt='view'/>
+          </a>
+            <img width='70' height='25' src="images/completed.png" alt='completed'/>
+        </p>
+        <p><strong><i>Frontend: </i> HTML, CSS, JavaScript, jQuery </strong></p>
+      </div>
+    </td>
+   
+  </tr>
 </table>
