@@ -43,6 +43,26 @@
   </tr>
   <tr style="display: flex;">
     <td width='50%'>
+      <h2 align='center'>Furniture Shop</h2>
+      <div align='center'>  
+        <a href="https://maksym-tkachuk.github.io/furniture-shop/" alt="furniture-shop">
+          <img  src='images/furniture-shop.png' alt='furniture-shop'/>
+        </a>
+        <br>
+        <br>
+        <p>
+         <a href="https://github.com/Maksym-Tkachuk/furniture-shop" alt="furniture-shop">
+           <img width='70' height='25' src="images/repo.png" alt='repo'/>
+          </a>
+          <a href='https://maksym-tkachuk.github.io/furniture-shop/'>
+            <img width='50' height='25' src="images/view.png" alt='view'/>
+          </a>
+            <img width='70' height='25' src="images/completed.png" alt='completed'/>
+        </p>
+        <p><strong><i>Frontend: </i> TypeScript, React, Ant Design, Redux Toolkit, Formik, SCSS </strong></p>
+      </div>
+    </td>
+       <td width='50%'>
       <h2 align='center'>School</h2>
       <div align='center'>  
         <a href="https://maksym-tkachuk.github.io/school/" alt="School">
@@ -62,10 +82,32 @@
         <p><strong><i>Frontend: </i> HTML, CSS, JavaScript, jQuery </strong></p>
       </div>
     </td>
-       <td width='50%'>
+  </tr>
+  <tr style="display: flex;">
+   <td  width='50%'>
+      <h2 align='center'>Movie Films</h2>
+      <div align='center'>  
+        <a href="https://maksym-tkachuk.github.io/Movie_Films/">
+          <img   src='images/moviefilms.png' alt='Movie_Films'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/Maksym-Tkachuk/Movie_Films" alt="Movie_Films">
+           <img width='70' height='25' src="images/repo.png" alt='repo'/>
+          </a>
+          <a href='https://maksym-tkachuk.github.io/Movie_Films/' alt="Movie_Films">
+            <img width='50' height='25'  src="images/view.png" alt='view'/>
+          </a>
+            <img width='70' height='25' src="images/completed.png" alt='completed'/>
+        </p>
+        <p><strong><i>Frontend: </i>HTML, CSS, JavaScript, jQuery</strong></p>
+      </div>
+    </td>
+    <td width='50%'>
       <h2 align='center'>Games</h2>
       <div align='center'>  
-        <a href="https://maksym-tkachuk.github.io/school/" alt="Games">
+        <a href="https://maksym-tkachuk.github.io/games/" alt="Games">
           <img  src='images/games.png' alt='Games'/>
         </a>
         <br>
@@ -80,6 +122,31 @@
             <img width='70' height='25' src="images/completed.png" alt='completed'/>
         </p>
         <p><strong><i>Frontend: </i> HTML, CSS, JavaScript, jQuery </strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr style="display: flex;">
+   <td  width='50%'>
+      <h2 align='center'>Snake Game</h2>
+      <div align='center'>  
+        <a href="https://maksym-tkachuk.github.io/snake/">
+          <img   src='images/snake.png' alt='Snake'/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/Maksym-Tkachuk/snake" alt="Snake">
+           <img width='70' height='25' src="images/repo.png" alt='repo'/>
+          </a>
+          <a href='https://maksym-tkachuk.github.io/snake/' alt="Snake">
+            <img width='50' height='25'  src="images/view.png" alt='view'/>
+          </a>
+            <img width='70' height='25' src="images/completed.png" alt='completed'/>
+        </p>
+        <p><strong><i>Frontend: </i>HTML, CSS, JavaScript, Canvas</strong></p>
+        <br>
+        <br>
+        <br>  
       </div>
     </td>
   </tr>
