@@ -108,6 +108,9 @@
         </p>
         <p><strong><i>Frontend: </i> TypeScript, React, Ant Design, Redux Toolkit, Formik, SCSS </strong></p>
       </div>
+      <br/>
+      <br/>
+      <br/>
     </td>
        <td width='50%'>
       <h2 align='center'>Movie-Portal</h2>
@@ -207,9 +210,6 @@
             <img width='70' height='25' src="images/completed.png" alt='completed'/>
         </p>
         <p><strong><i>Frontend: </i>HTML, CSS, JavaScript, Canvas</strong></p>
-        <br>
-        <br>
-        <br>  
       </div>
     </td>
   </tr>
