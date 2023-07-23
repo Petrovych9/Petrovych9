@@ -1,3 +1,7 @@
+<h1>
+  <a href="https://drive.google.com/file/d/145MFtnScMQKDh6RYvh3KMvcSfDnOZ1tq/view?usp=drive_link" target="_blank">View Resume</a>
+</h1>
+
 <h1 align="center">Projects</h1>
 
 <table>
