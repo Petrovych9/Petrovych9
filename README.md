@@ -106,6 +106,24 @@
       </div>
     </td>
        <td width='50%'>
+      <h2 align='center'>Movie-Portal</h2>
+      <div align='center'>  
+        <img  src='images/moviePortal.png' alt='moviePortal'/>
+        <br>
+        <br>
+        <p>
+          <a href="https://github.com/Maksym-Tkachuk/Movie-Portal-Frontend" alt="Movie-Porta">
+           <img width='70' height='25' src="images/repo.png" alt='repo'/>
+          </a>
+            <img width='70' height='25' src="images/completed.png" alt='completed'/>
+        </p>
+        <p><strong><i>Frontend: </i> TypeScript, React, SCSS, Axios, Formik, Redux, Ant Design </strong></p>
+        <p><strong><i>Backend: </i> Node.js, Express, Mongodb, Mongoose, TypeScript, AWS </strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr style="display: flex;">
+    <td width='50%'>
       <h2 align='center'>School</h2>
       <div align='center'>  
         <a href="https://maksym-tkachuk.github.io/school/" alt="School">
@@ -125,8 +143,6 @@
         <p><strong><i>Frontend: </i> HTML, CSS, JavaScript, jQuery </strong></p>
       </div>
     </td>
-  </tr>
-  <tr style="display: flex;">
    <td  width='50%'>
       <h2 align='center'>Movie Films</h2>
       <div align='center'>  
@@ -147,6 +163,8 @@
         <p><strong><i>Frontend: </i>HTML, CSS, JavaScript, jQuery</strong></p>
       </div>
     </td>
+  </tr>
+  <tr style="display: flex;">
     <td width='50%'>
       <h2 align='center'>Games</h2>
       <div align='center'>  
@@ -167,8 +185,6 @@
         <p><strong><i>Frontend: </i> HTML, CSS, JavaScript, jQuery </strong></p>
       </div>
     </td>
-  </tr>
-  <tr style="display: flex;">
    <td  width='50%'>
       <h2 align='center'>Snake Game</h2>
       <div align='center'>  
