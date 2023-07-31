@@ -17,7 +17,6 @@
 
 <table>
 <tr>
-  <td>
     <h2 align='center'>Spotify</h2>
       <div align='center'>  
         <a href="https://github.com/Maksym-Tkachuk/spotify" alt="Spotify">
@@ -33,7 +32,6 @@
         </p>
         <p><strong><i>Technologies: </i> React Native </strong></p>
       </div>
-    </td>
 </tr>
 <tr style="display: flex;">
     <td width='50%'>
