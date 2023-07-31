@@ -1,12 +1,40 @@
-<h1>
-  <a href="https://drive.google.com/file/d/145MFtnScMQKDh6RYvh3KMvcSfDnOZ1tq/view?usp=drive_link" target="_blank">
-     View Resume
+
+<div align="center"> 
+  <h1>Resume</h1> 
+  <a href="https://drive.google.com/file/d/145MFtnScMQKDh6RYvh3KMvcSfDnOZ1tq/view?usp=drive_link" target="_blank">  
+   <img src="images/resume.png"/>
   </a>
-</h1>
+</div>
+
+<div align="center"> 
+    <h1 align="center">Articles</h1>
+    <h2 align="center">Medium</h2>
+    <a href="https://medium.com/@tkachykmakc"><img src="images/medium_logo.png" /></a>
+</div> 
+
 
 <h1 align="center">Projects</h1>
 
 <table>
+<tr>
+  <td>
+    <h2 align='center'>Spotify</h2>
+      <div align='center'>  
+        <a href="https://github.com/Maksym-Tkachuk/spotify" alt="Spotify">
+          <img  src='images/spotify.png' alt='Spotify'/>
+        </a>
+        <br>
+        <br>
+        <p>
+           <a href="https://github.com/Maksym-Tkachuk/spotify" alt="spotify">
+           <img width='70' height='25' src="images/repo.png" alt='repo'/>
+          </a>
+            <img width='70' height='25' src="images/inProgress.png" alt='inProgress'/>
+        </p>
+        <p><strong><i>Technologies: </i> React Native </strong></p>
+      </div>
+    </td>
+</tr>
 <tr style="display: flex;">
     <td width='50%'>
       <h2 align='center'>Training Club</h2>
@@ -41,7 +69,7 @@
           <a href='https://calendar-landing-develop.web.app/' alt="Swipi">
             <img width='50' height='25'  src="images/view.png" alt='view'/>
           </a>
-           <img width='70' height='25' src="images/inProgress.png" alt='inProgress'/>
+           <img width='70' height='25' src="images/completed.png" alt='completed'/>
         </p>
         <p><strong><i>Frontend: </i>React, TypeScript</strong></p>
       </div>
