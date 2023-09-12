@@ -41,23 +41,46 @@
 </tr>
 <tr style="display: flex;">
     <td  width='50%'>
-      <h2 align='center'>CHRONOUS</h2>
+      <h2 align='center'>Project</h2>
       <div align='center'>  
-        <a href="https://calendar-landing-develop.web.app/">
-          <img   src='images/Chronous.png' alt='Chronous'/>
+        <a href="">
+          <img   src=''/>
         </a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/midstem/chronous#chronous" alt="swipi">
+          <a href="" alt="Project">
            <img width='70' height='25' src="images/repo.png" alt='repo'/>
           </a>
-          <a href='https://calendar-landing-develop.web.app/' alt="Swipi">
+          <a href='' alt="Project">
             <img width='50' height='25'  src="images/view.png" alt='view'/>
           </a>
            <img width='70' height='25' src="images/completed.png" alt='completed'/>
         </p>
-        <p><strong><i>Frontend: </i>React, TypeScript</strong></p>
+        <p><strong><i>inf: </i>inf</strong></p>
+      </div>
+        <br>
+        <br>
+        <br>  
+    </td>
+    <td  width='50%'>
+      <h2 align='center'>Project</h2>
+      <div align='center'>  
+        <a href="">
+          <img   src=''/>
+        </a>
+        <br>
+        <br>
+        <p>
+          <a href="" alt="Project">
+           <img width='70' height='25' src="images/repo.png" alt='repo'/>
+          </a>
+          <a href='' alt="Project">
+            <img width='50' height='25'  src="images/view.png" alt='view'/>
+          </a>
+           <img width='70' height='25' src="images/completed.png" alt='completed'/>
+        </p>
+        <p><strong><i>inf: </i>inf</strong></p>
       </div>
         <br>
         <br>
@@ -66,32 +89,32 @@
   </tr>
   <tr style="display: flex;">
    <td  width='50%'>
-      <h2 align='center'>Swipi landing</h2>
+      <h2 align='center'>Project</h2>
       <div align='center'>  
-        <a href="https://swipi.midstem.net/">
-          <img   src='images/swipi.png' alt='Swipi'/>
+        <a href="">
+          <img   src='' alt='Project'/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://swipi.midstem.net/' alt="Swipi">
+          <a href='' alt="Project">
             <img width='50' height='25'  src="images/view.png" alt='view'/>
           </a>
             <img width='70' height='25' src="images/completed.png" alt='completed'/>
         </p>
-        <p><strong><i>Frontend: </i>React, TypeScript, Next JS, Chakra UI, Styled System</strong></p>
+        <p><strong><i>inf: </i>inf </strong></p>
       </div>
     </td>
-      <td  width='50%'>
-      <h2 align='center'>SWIPI</h2>
+    <td  width='50%'>
+      <h2 align='center'>Project</h2>
       <div align='center'>
-        <a href="https://swipi.midstem.net/">
-          <img   src='images/swipiSlider.png' alt='Swipi'/>
+        <a href="">
+          <img   src='' alt='project'/>
         </a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/midstem/swipi" alt="swipi">
+          <a href="" alt="project">
            <img width='70' height='25' src="images/repo.png" alt='repo'/>
           </a>
           <a href='https://swipi.midstem.net/' alt="Swipi">
@@ -99,7 +122,7 @@
           </a>
             <img width='70' height='25' src="images/completed.png" alt='completed'/>
         </p>
-        <p><strong><i>Frontend: </i>React, TypeScript</strong></p>
+        <p><strong><i>inf: </i>infinf</strong></p>
       </div>
     </td>
 
