@@ -12,7 +12,7 @@
  <br>
  <br>
 <div align="left"> 
-    <h3 align="center">Articles: Medium</h3>
+    <h3 align="left">Articles: Medium</h3>
     <a href="https://medium.com/@bohdan-petrovych9">
     <img src="images/medium_logo.png" />
     </a>
