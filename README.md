@@ -1,7 +1,7 @@
 
 <div align="center"> 
   <h1>Resume</h1> 
-  <a href="https://drive.google.com/file/d/1XLaG7azKp5LGiRAkmg3g0FyLJesMH2HL/view?usp=sharing" target="_blank">  
+  <a href="https://drive.google.com/file/d/1JRKbKDkBOhmtxYqud0XDgUfJmxRKiVV-/view?usp=drive_link" target="_blank">  
    <img src="images/resume.png"/>
   </a>
 </div>
