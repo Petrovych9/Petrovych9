@@ -9,7 +9,7 @@
 <div align="center"> 
     <h1 align="center">Articles</h1>
     <h2 align="center">Medium</h2>
-    <a href="">
+    <a href="https://medium.com/@bohdan-petrovych9">
     <img src="images/medium_logo.png" />
     </a>
 </div> 
