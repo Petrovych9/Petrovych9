@@ -2,6 +2,7 @@
   title="Profile">I'm Bohdan</a>👋</h2>
 <br>
 <p align="center">
+![Static Badge](https://img.shields.io/badge/hello)
 
  <br>
  <br>
