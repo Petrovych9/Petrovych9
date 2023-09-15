@@ -1,11 +1,15 @@
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
   <!-- Some emojis can be found at https://animated-fluent-emoji.vercel.app -->
+  <!-- People illustrations by Storyset: https://storyset.com/people" -->
 
 
 <h1 align="center">Hi, 
   <a href="https://github.com/Petrovych9" title="Profile">I'm Bohdan</a>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="48" height="48" />
 </h1>
+
+<img align="right" alt="GIF" src="https://github.com/Petrovych9/Petrovych9/assets/137152593/876a4081-ebb0-4886-9974-f095eaa316a8" width="400px"/>
+
 
  ### 📝  Get in touch <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="28" height="28" />:
 
@@ -23,7 +27,11 @@
 | -------- | ----- |
 | [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bohdan-petrovych9) | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" target="_blank" width="48" height="48" />](https://drive.google.com/file/d/1HGJUD1D0-wwvUVW_FyZEry7gyxxkMJD7/view?usp=drive_link)
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
