@@ -11,9 +11,6 @@
 <img align="right" alt="GIF" src="https://github.com/Petrovych9/Petrovych9/assets/137152593/876a4081-ebb0-4886-9974-f095eaa316a8" width="360px"/>
 
 
-![Uploading mini-masterworks.svg…]()
-
-
 
 
  ### 📝  Get in touch <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="28" height="28" />:
@@ -37,6 +34,7 @@
 <br>
 <br>
 <br>
+
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
 
@@ -79,14 +77,27 @@
   </p>
 </details>
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
-<a href="#"><img alt="Food-Club" src=""></a>
 
-<!-- <h1 align="center">Projects</h1>
+<details> 
+  <summary>
+    <h2>Training Club</h2>
+    <img  src='images/trclub_logo.svg' alt='Training_Club' width="32"/>
+  </summary>
+
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="25" height="25" />
+    Service for managing workouts <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /></h3>
+
+  <p></p>
+
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
+
 
 <table>
 <tr>
-        <td width='50%'>
+        <!-- <td width='50%'>
           <h2 align='center'>Training Club</h2>
           <div align='center'>  
               <a href="https://trainingclub.team/" alt="Training Club">
@@ -97,97 +108,22 @@
               <p>
                 <a href='https://trainingclub.team/'><img width='50' height='25' src="images/view.png" alt='view'/></a><img width='70' height='25' src="images/inProgress.png" alt='inProgress'/>
               </p>
-              <p>Service for managing workouts</p>
+              <p></p>
           </div>
-    </td>
+    </td> -->
 
 </tr>
 <tr style="display: flex;">
-    <td  width='50%'>
-      <h2 align='center'>Project</h2>
-      <div align='center'>  
-        <a href="">
-          <img   src=''/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="" alt="Project">
-           <img width='70' height='25' src="images/repo.png" alt='repo'/>
-          </a>
-          <a href='' alt="Project">
-            <img width='50' height='25'  src="images/view.png" alt='view'/>
-          </a>
-           <img width='70' height='25' src="images/completed.png" alt='completed'/>
-        </p>
-        <p><strong><i>inf: </i>inf</strong></p>
-      </div>
-        <br>
-        <br>
-        <br>  
+    <td  width='50%'><div align='center'>  
+        <a href="https://github.com/Petrovych9/Mini-Masterworks">
+            <img alt="Mini-masterworks" src="images/mini-masterworksfull.svg"></a></div>
     </td>
     <td  width='50%'>
-      <h2 align='center'>Project</h2>
       <div align='center'>  
-        <a href="">
-          <img   src=''/>
+        <a href="https://github.com/Petrovych9/Mini-Masterworks">
+            <img alt="Mini-masterworks" src="images/foodclubfull.svg">
         </a>
-        <br>
-        <br>
-        <p>
-          <a href="" alt="Project">
-           <img width='70' height='25' src="images/repo.png" alt='repo'/>
-          </a>
-          <a href='' alt="Project">
-            <img width='50' height='25'  src="images/view.png" alt='view'/>
-          </a>
-           <img width='70' height='25' src="images/completed.png" alt='completed'/>
-        </p>
-        <p><strong><i>inf: </i>inf</strong></p>
-      </div>
-        <br>
-        <br>
-        <br>  
-    </td>
-  </tr>
-  <tr style="display: flex;">
-   <td  width='50%'>
-      <h2 align='center'>Project</h2>
-      <div align='center'>  
-        <a href="">
-          <img   src='' alt='Project'/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href='' alt="Project">
-            <img width='50' height='25'  src="images/view.png" alt='view'/>
-          </a>
-            <img width='70' height='25' src="images/completed.png" alt='completed'/>
-        </p>
-        <p><strong><i>inf: </i>inf </strong></p>
-      </div>
-    </td>
-    <td  width='50%'>
-      <h2 align='center'>Project</h2>
-      <div align='center'>
-        <a href="">
-          <img   src='' alt='project'/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="" alt="project">
-           <img width='70' height='25' src="images/repo.png" alt='repo'/>
-          </a>
-          <a href='https://swipi.midstem.net/' alt="Swipi">
-            <img width='50' height='25'  src="images/view.png" alt='view'/>
-          </a>
-            <img width='70' height='25' src="images/completed.png" alt='completed'/>
-        </p>
-        <p><strong><i>inf: </i>infinf</strong></p>
       </div>
     </td>
 
-  </tr>
-</table> -->
+</table>
