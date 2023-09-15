@@ -91,11 +91,13 @@
   <p></p>
 </details>
 
+
+
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
 
 
-<table style="display: flex; width: 100%;border-collapse: collapse; margin: 0 auto;">
+<table style="display: flex;">
 <tr>
         <!-- <td width='50%'>
           <h2 align='center'>Training Club</h2>
