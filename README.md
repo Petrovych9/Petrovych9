@@ -95,7 +95,7 @@
 
 
 
-<table>
+<table style="display: flex; width: 100%;border-collapse: collapse;">
 <tr>
         <!-- <td width='50%'>
           <h2 align='center'>Training Club</h2>
