@@ -79,20 +79,26 @@
 
 
 <details> 
-  <summary>
-    <h2>Training Club</h2>
-    <img  src='images/trclub_logo.svg' alt='Training_Club' width="32"/>
+  <summary style="display: flex; flex-direction: row; align-items: center;">
+      <!---->
+      <h2>:sparkles:Training Club:sparkles::exclamation:
+</h2>
   </summary>
+<!--
+ > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="25" height="25" />Fitness platform <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />
+<img  src='images/trclub_logo.svg' alt='Training_Club' width="64" align="right"/>
+  
+### Platform suggests:
+- Workouts for entire life
+- Earn money by creating workout 
 
-  <h3>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="25" height="25" />
-    Service for managing workouts <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /></h3>
 
-  <p></p>
+<h3 align="center"> Just TAP and Start</h3>-->
+
 </details>
 
-
-
+<br>
+<br>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
 
