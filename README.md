@@ -10,9 +10,9 @@
  ### 📝  Get in touch <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="28" height="28" />:
 
 
-| Gmail | Linkedin  | Slack |
-| ----- | --------- | ----- |
-| [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bohdan.work9@gmail.com) | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bohdan-petrovych9) | [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://training-club-group.slack.com/team/U057RJHET52)        
+| Gmail | Linkedin  | Slack | Skype |
+| ----- | --------- | ----- | ----- |
+| [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bohdan.work9@gmail.com) | [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bohdan-petrovych9) | [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://training-club-group.slack.com/team/U057RJHET52) | [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/KxSpx9ipl3hD)       
 
 
 
@@ -21,7 +21,7 @@
 
 | Articles | CV |
 | -------- | ----- |
-| [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bohdan-petrovych9) | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="48" height="48" />](https://drive.google.com/file/d/1JRKbKDkBOhmtxYqud0XDgUfJmxRKiVV-/view?usp=drive_link)
+| [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bohdan-petrovych9) | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="48" height="48" />](https://drive.google.com/file/d/1HGJUD1D0-wwvUVW_FyZEry7gyxxkMJD7/view?usp=drive_link)
 
 
 <details> 
