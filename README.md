@@ -89,7 +89,7 @@
     Service for managing workouts <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" /></h3>
 
   <p></p>
-
+</details>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
 
