@@ -120,7 +120,7 @@
     </td>
     <td  width='50%'>
       <div align='center'>  
-        <a href="https://github.com/Petrovych9/Mini-Masterworks">
+        <a href="https://github.com/Petrovych9/Food-Club">
             <img alt="Mini-masterworks" src="images/foodclubfull.svg">
         </a>
       </div>
