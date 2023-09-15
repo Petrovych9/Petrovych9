@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="48" height="48" />
 </h1>
 
-<img align="right" alt="GIF" src="https://github.com/Petrovych9/Petrovych9/assets/137152593/876a4081-ebb0-4886-9974-f095eaa316a8" width="400px"/>
+<img align="right" alt="GIF" src="https://github.com/Petrovych9/Petrovych9/assets/137152593/876a4081-ebb0-4886-9974-f095eaa316a8" width="360px"/>
 
 
  ### 📝  Get in touch <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="28" height="28" />:
