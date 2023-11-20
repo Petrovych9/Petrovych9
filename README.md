@@ -24,10 +24,15 @@
 
  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Artist%20Light%20Skin%20Tone.png" alt="Artist" width="28" height="28" /> Articles & CV
 
-
+<!--
 | Articles | CV |
 | -------- | ----- |
 | [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bohdan-petrovych9) | [<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" target="_blank" width="48" height="48" />](https://drive.google.com/file/d/1u6SVC4A_dUD7Tnopg1X60Yfi69wIhiTf/view?usp=drive_link)
+-->
+
+| Articles | 
+| -------- |
+| [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bohdan-petrovych9) |
 
 <br>
 <br>
